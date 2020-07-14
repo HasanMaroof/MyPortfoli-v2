@@ -2,7 +2,7 @@
 	"name": "hasan-portfolio",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://hasanmaroof.github.io/MyPortfoli-v2/",
+	"homepage": "http://www.hasanmaroof.xyz/",
 	"dependencies": {
 		"@material-ui/core": "^4.9.10",
 		"@material-ui/icons": "^4.9.1",
