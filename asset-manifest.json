@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MyPortfoli-v2/static/css/main.523f09c5.chunk.css",
+    "main.js": "/MyPortfoli-v2/static/js/main.40e03958.chunk.js",
+    "main.js.map": "/MyPortfoli-v2/static/js/main.40e03958.chunk.js.map",
+    "runtime-main.js": "/MyPortfoli-v2/static/js/runtime-main.cf0428ea.js",
+    "runtime-main.js.map": "/MyPortfoli-v2/static/js/runtime-main.cf0428ea.js.map",
+    "static/js/2.ec5a3acf.chunk.js": "/MyPortfoli-v2/static/js/2.ec5a3acf.chunk.js",
+    "static/js/2.ec5a3acf.chunk.js.map": "/MyPortfoli-v2/static/js/2.ec5a3acf.chunk.js.map",
+    "index.html": "/MyPortfoli-v2/index.html",
+    "precache-manifest.ad23137fc8512bbbe4b22cbaa9a997e0.js": "/MyPortfoli-v2/precache-manifest.ad23137fc8512bbbe4b22cbaa9a997e0.js",
+    "service-worker.js": "/MyPortfoli-v2/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/MyPortfoli-v2/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.ec5a3acf.chunk.js.LICENSE.txt": "/MyPortfoli-v2/static/js/2.ec5a3acf.chunk.js.LICENSE.txt",
+    "static/media/Hasan_UI_Specialist.pdf": "/MyPortfoli-v2/static/media/Hasan_UI_Specialist.da7da7fb.pdf",
+    "static/media/Intro.jpeg": "/MyPortfoli-v2/static/media/Intro.a2372ee7.jpeg",
+    "static/media/Redux.png": "/MyPortfoli-v2/static/media/Redux.c8f44df3.png",
+    "static/media/agile.jpg": "/MyPortfoli-v2/static/media/agile.265464f3.jpg",
+    "static/media/bootstrap.png": "/MyPortfoli-v2/static/media/bootstrap.68fcf38c.png",
+    "static/media/git.png": "/MyPortfoli-v2/static/media/git.0bcb32c6.png",
+    "static/media/hasan_sidebar.jpg": "/MyPortfoli-v2/static/media/hasan_sidebar.f4b98c10.jpg",
+    "static/media/jest.png": "/MyPortfoli-v2/static/media/jest.9edcb510.png",
+    "static/media/json.png": "/MyPortfoli-v2/static/media/json.7e531ab0.png",
+    "static/media/mui.png": "/MyPortfoli-v2/static/media/mui.d2b1e190.png",
+    "static/media/nodejs-logo.png": "/MyPortfoli-v2/static/media/nodejs-logo.5b47d4f8.png",
+    "static/media/ts.png": "/MyPortfoli-v2/static/media/ts.4e96f111.png",
+    "static/media/vsCode.png": "/MyPortfoli-v2/static/media/vsCode.225fbbe0.png",
+    "static/media/webpack-logo.png": "/MyPortfoli-v2/static/media/webpack-logo.c500a380.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0428ea.js",
+    "static/js/2.ec5a3acf.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.40e03958.chunk.js"
+  ]
+}
